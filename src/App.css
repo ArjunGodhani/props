@@ -1,0 +1,36 @@
+h1 {
+  color: #ffa500;
+  background-color:#00203fff;
+  text-align: center;
+  padding: 25px;
+  margin: auto;
+}
+
+.grid {
+
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: auto;
+  margin: auto;
+  align-items: center;
+
+}
+
+.card {
+  width: 250%;
+  margin: 30px;
+  background-color: #ffa500;
+}
+
+.card-img-top {
+  height: 300px;
+  width: 333px;
+  align-items: center;
+}
+.list-grouplist-group-flush{
+  background-color: #00203fff;
+}
+
+.col-md-4{
+  background-color: #d8315b;
+}
